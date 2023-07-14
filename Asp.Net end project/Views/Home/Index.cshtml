@@ -1,0 +1,278 @@
+﻿@model HomeVM
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<!-- main wrapper start -->
+<main>
+    <!-- hero slider section start -->
+    <section class="hero-slider">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="hero-slider-active slick-arrow-style slick-arrow-style_hero slick-dot-style">
+                        <!-- single slider item start -->
+                        @foreach (var slider in Model.Sliders)
+                        {
+                            <div class="hero-single-slide">
+                                <div class="hero-slider-item bg-img" style="background-image: url(~/../assets/img/slider/@slider.Image)" data-bg="assets/img/slider/slider-1.jpg">
+                                    <div class="hero-slider-content slide-1">
+                                        <h5 class="slide-subtitle">@Html.Raw(slider.Sale)</h5>
+                                        <h2 class="slide-title">@Html.Raw(slider.Title)</h2>
+                                        <p class="slide-desc">@Html.Raw(slider.Description)</p>
+                                        <a href="shop.html" class="btn btn-hero">SHOP NOW</a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+                        <!-- single slider item end -->
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- hero slider section end -->
+    <!-- service features start -->
+    <section class="service-policy-area">
+        <div class="container">
+            <div class="row">
+                <!-- single policy item start -->
+                @foreach (var service in Model.Services)
+                {
+                    <div class="col-lg-4">
+                        <div style="background-color:@service.Color" class="service-policy-item mt-30 bg-1">
+                            <div class="policy-icon">
+                                <img style="width:59px; height:51px" src="~/assets/img/icon/@Html.Raw(service.Image)" alt="policy icon">
+                            </div>
+                            <div class="policy-content">
+                                <h5 class="policy-title">@Html.Raw(service.Title)</h5>
+                                <p class="policy-desc">@Html.Raw(service.Description)</p>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+
+            </div>
+        </div>
+    </section>
+    <!-- service features end -->
+    <!-- our product area start -->
+    <section class="our-product section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-title text-center">
+                        <h2 class="title">@Model.OurProduct.Title</h2>
+                        <p class="sub-title">@Model.OurProduct.Description</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="product-carousel-4 mbn-50 slick-row-15 slick-arrow-style">
+                        <!-- product single item start -->
+                        @foreach (var product in Model.Products)
+                        {
+                            <div class="product-item mb-50">
+                                <input style="display:none" value="@product.Id" />
+                                <div class="product-thumb">
+                                    <a asp-controller="ProductDetail" asp-action="Index" asp-route-id="@product.Id">
+
+                                        <img src="~/assets/img/product/@product.ProductImages.FirstOrDefault(m=>m.IsMain)?.Image" alt="">
+
+
+                                    </a>
+                                </div>
+                                <div class="product-content">
+                                    <input style="display:none" value="@product.Id" />
+                                    <h5 class="product-name">
+                                        <a href="product-details.html">@product.Title</a>
+                                    </h5>
+                                    <div class="price-box">
+                                        <span class="price-regular">$ @((product.Price-((product.Price * product.DiscountPrice)/100)).ToString("##.00"))</span>
+                                        <span class="price-old"><del>$ @product.Price.ToString("##.00")</del></span>
+                                    </div>
+                                    <div class="product-action-link">
+                                        <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
+                                        <a href="" style="cursor:pointer;" class="add-to-cart" data-toggle="tooltip" title="Add To Cart"><i class="ion-bag"></i></a>
+                                        <a href="#" data-toggle="modal" data-target="#quick_view">
+                                            <span data-toggle="tooltip"
+                                                  title="Quick View"><i class="ion-ios-eye-outline"></i></span>
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- our product area end -->
+    <!-- banner statistic area start -->
+    <div class="banner-statistics">
+        <div class="container">
+            <div class="row no-gutters mtn-30">
+                @foreach (var banner in Model.Banners)
+                {
+                    <div class="col-md-6">
+                        <div class="img-container mt-30">
+                            <a href="product-details.html">
+                                <img style="width:585px; height:250px" src="~/assets/img/banner/@banner.Image" alt="banner-image">
+                            </a>
+                            <div class="banner-text">
+                                <h5 class="banner-subtitle">@Html.Raw(banner.SubTitle)</h5>
+                                <h3 class="banner-title">20% Off<br>@Html.Raw(banner.Title)</h3>
+                            </div>
+                        </div>
+                    </div>
+                }
+
+
+            </div>
+        </div>
+    </div>
+    <!-- banner statistic area end -->
+    <!-- top seller area start -->
+    <section class="top-seller-area section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-title text-center">
+                        <h2 class="title">@Model.TopSeller.Title</h2>
+                        <p class="sub-title">@Model.TopSeller.Description</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-4 col-lg-5 col-md-5">
+                    <div class="product-banner">
+                        <a href="#">
+                            <img src="~/assets/img/banner/@Model.SingleBanner.Image" alt="product banner">
+                        </a>
+                    </div>
+                </div>
+                <div class="col-xl-8 col-lg-7 col-md-7">
+                    <div class="top-seller-carousel slick-row-15 mtn-30">
+                        @foreach (var item in Model.Products)
+                        {
+                            <div class="slide-item">
+                                <div class="pro-item-small mt-30 product-item">
+                                    <input style="display:none" value="@item.Id" />
+                                    <div class="product-thumb">
+                                        <a href="product-details.html">
+                                            <img src="~/assets/img/product/@item.ProductImages.FirstOrDefault(m=>m.IsMain)?.Image" alt="">
+                                        </a>
+                                    </div>
+                                    <div class="pro-small-content">
+                                        <h6 class="product-name">
+                                            <a href="product-details.html">@item.Title</a>
+                                        </h6>
+                                        <div class="price-box">
+                                            <span class="price-regular">$@((item.Price-((item.Price * item.DiscountPrice)/100)).ToString("##.00"))</span>
+                                            <span class="price-old"><del>$@item.Price.ToString("##.00")</del></span>
+                                        </div>
+                                        <div class="ratings">
+                                            <span><i class="ion-android-star"></i></span>
+                                            <span><i class="ion-android-star"></i></span>
+                                            <span><i class="ion-android-star"></i></span>
+                                            <span><i class="ion-android-star"></i></span>
+                                            <span><i class="ion-android-star"></i></span>
+                                        </div>
+                                        <div class="product-link-2">
+                                            <a href="#" data-toggle="tooltip" title="Wishlist"><i class="ion-android-favorite-outline"></i></a>
+                                            <a href="" style="cursor:pointer;" class="add-to-cart" data-toggle="tooltip" title="Add To Cart"><i class="ion-bag"></i></a>
+                                            <a href="#" data-toggle="modal" data-target="#quick_view">
+                                                <span data-toggle="tooltip"
+                                                      title="Quick View"><i class="ion-ios-eye-outline"></i></span>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- top seller area end -->
+    <!-- latest blog area start -->
+    <section class="latest-blog-area">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="section-title text-center">
+                        <h2 class="title">@Model.OurBlog.Title</h2>
+                        <p class="sub-title">@Model.OurBlog.Description</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="blog-carousel-active slick-row-15">
+                        @foreach (var blog in Model.Blogs)
+                        {
+                            <div class="blog-post-item">
+                                <div class="blog-thumb">
+                                    <a asp-controller="BlogDetail" asp-action="Index">
+                                        <img src="~/assets/img/blog/@blog.Image" alt="blog thumb">
+                                    </a>
+                                </div>
+                                <div class="blog-content">
+                                    <h5 class="blog-title">
+                                        <a asp-controller="BlogDetail" asp-action="Index">
+                                            @blog.Title
+                                        </a>
+                                    </h5>
+                                    <ul class="blog-meta">
+                                        <li><span>By: </span>@blog.Admin</li>
+                                        <li><span>On: </span>@blog.CreateDate.ToString("dd-MM-yyyy")</li>
+                                    </ul>
+                                    <a asp-controller="BlogDetail" asp-action="Index" class="read-more">Read More...</a>
+                                </div>
+                            </div>
+
+                        }
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- latest blog area end -->
+    <!-- brand area start -->
+    <div class="brand-area section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="brand-active-carousel">
+                        @foreach (var brand in Model.Brands)
+                        {
+                            <div class="brand-item">
+                                <a href="#">
+                                    <img src="~/assets/img/brand/@brand.Image" alt="brand image">
+                                </a>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- brand area end -->
+</main>
+<!-- main wrapper end -->
+
+@section Ajax{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" integrity="sha512-rstIgDs0xPgmG6RX1Aba4KV5cWJbAMcvRCVmglpam9SoHZiUCyQVDdH2LPlxoHtrv17XWblE/V/PP+Tr04hbtA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@7.12.15/dist/sweetalert2.all.min.js"></script>
+}
+

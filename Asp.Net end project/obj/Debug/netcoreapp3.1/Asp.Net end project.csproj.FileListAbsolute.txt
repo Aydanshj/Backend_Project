@@ -1,0 +1,783 @@
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.exe
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.deps.json
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.runtimeconfig.json
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.runtimeconfig.dev.json
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.pdb
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.Views.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.Views.pdb
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.AssemblyInfoInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.AssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorAssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net end project.StaticWebAssets.Manifest.cache
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net end project.StaticWebAssets.xml
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Asp.Net end project.styles.css
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.TagHelpers.input.cache
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.TagHelpers.output.cache
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorCoreGenerate.cache
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\ProductDetail\Index.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorTargetAssemblyInfo.cache
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorTargetAssemblyInfo.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.Views.pdb
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.CopyComplete
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.dll
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.pdb
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.genruntimeconfig.cache
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.AssemblyReference.cache
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\_ViewImports.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\_ViewStart.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\BlogDetail\Index.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\OMEN\OneDrive\İş masası\Asp.Net end project\Asp.Net end project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.AssemblyInfoInputs.cache
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.AssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.CoreCompileInputs.cache
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorAssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net end project.StaticWebAssets.Manifest.cache
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net end project.StaticWebAssets.xml
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\scopedcss\bundle\Asp.Net end project.styles.css
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.TagHelpers.input.cache
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.TagHelpers.output.cache
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorCoreGenerate.cache
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Create.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Detail.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Edit.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\_ViewImports.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\_ViewStart.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyEmail.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Basket\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\BlogDetail\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\ProductDetail\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorTargetAssemblyInfo.cache
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorTargetAssemblyInfo.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.pdb
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.exe
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.deps.json
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.runtimeconfig.json
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.runtimeconfig.dev.json
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.pdb
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.Views.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.Views.pdb
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.Views.pdb
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.CopyComplete
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.genruntimeconfig.cache
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.AssemblyReference.cache
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Create.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Detail.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Edit.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Shared\_ValidationPartial.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Detail.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Create.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Edit.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Detail.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Create.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Edit.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Create.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Detail.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Edit.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Blog\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Blog\Create.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Blog\Detail.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Product\Index.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Product\Create.cshtml.g.cs
+C:\Users\Emil Abdullayev\Desktop\Asp.Net-end-project\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Product\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.StaticWebAssets.xml
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.exe
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.deps.json
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.runtimeconfig.json
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.pdb
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.Views.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.Views.pdb
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net end project.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net end project.StaticWebAssets.Pack.cache
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Asp.Net end project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Asp.Net end project.props
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Asp.Net end project.props
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Asp.Net end project.props
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Edit.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Blog\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Blog\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Blog\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Edit.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Product\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Product\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Product\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Edit.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Shared\_ValidationPartial.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Edit.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Edit.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyEmail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Basket\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\BlogDetail\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\ProductDetail\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.Views.pdb
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.dll
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.pdb
+C:\Users\Lenovo\Desktop\BackEnd-project_Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.StaticWebAssets.xml
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.exe
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.deps.json
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.pdb
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.Views.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Asp.Net end project.Views.pdb
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\MailKit.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\MimeKit.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Formats.Asn1.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Cng.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Security.Cryptography.Cng.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\System.Text.Encoding.CodePages.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net end project.StaticWebAssets.Manifest.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\Asp.Net end project.StaticWebAssets.Pack.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Asp.Net end project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Asp.Net end project.props
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Asp.Net end project.props
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Asp.Net end project.props
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.TagHelpers.input.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.TagHelpers.output.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorCoreGenerate.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Edit.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Banner\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Blog\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Blog\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Blog\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Edit.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Category\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Dashboard\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Product\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Product\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Product\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Edit.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Service\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Shared\_AdminLayout.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Shared\_ValidationPartial.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Edit.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\SingleBanner\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Create.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Detail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Edit.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\Slider\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Areas\AdminArea\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ForgetPassword.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\ResetPassword.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Account\VerifyEmail.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Basket\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\BlogDetail\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Blog\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\ProductDetail\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Footer\Default.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Header\Default.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\Shop\Index.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorTargetAssemblyInfo.cache
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.RazorTargetAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.Views.pdb
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.dll
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.pdb
+C:\Users\Lenovo\Desktop\Juan\Asp.Net end project\obj\Debug\netcoreapp3.1\Asp.Net end project.genruntimeconfig.cache
